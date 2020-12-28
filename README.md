@@ -1,9 +1,9 @@
 # Video-Compressing-Redesign
 *A collection of interesting papers regarding video analytics.*
 
-- [\#Core Paper](#Core)
-- [\#Video Analytic Related](#Video Analytic)
-- [\#Super Resolution Related](#Super Resolution)
+- [\#Core Paper](#core)
+- [\#Video Analytic Related](#video-analytic)
+- [\#Super Resolution Related](#super-resolution)
 
 ## Link
 - [Papers collection (Jbox)](https://jbox.sjtu.edu.cn/link/view/7c8a2b91931d49ca8bd9facdd1b464d4)
